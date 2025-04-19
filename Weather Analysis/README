@@ -1,1 +1,68 @@
+Weather Analysis Dashboard – 2012
+
+- This repository showcases a beginner-friendly, interactive Power BI dashboard designed to analyze and visualize key weather metrics from the year 2012. 
+The report includes KPI indicators,time-based temperature trends, and condition-based humidity insights.
+
+📌 Objective:
+- To explore and understand monthly weather patterns using Power BI. The dashboard focuses on temperature, humidity, wind speed, and rainfall data to provide a 
+concise summary of environmental conditions over the year.
+
+📁 Dataset Overview:
+- Timeframe: January 2012 – December 2012
+- Fields Used: Avg Temperature, Max Humidity, Avg Wind Speed, Total Rainfall, Weather Condition
+
+📊 Key Dashboard Components:
+🔹 KPI Cards
+A high-level snapshot of:
+
+* 🌡 Average Temperature
+
+* 💧 Maximum Humidity
+
+* 🌬 Average Wind Speed
+
+* 🌧 Total Rainfall
+
+- These KPIs summarize the core environmental metrics and help users get a quick overview before diving into visual trends.
+
+
+🔹 Line Chart – Temperature Over Time
+* Shows monthly variation in average temperature throughout 2012. It captures seasonal shifts with a clear upward trend through mid-year, peaking in July–August.
+
+🔹 Bar Chart – Avg Humidity by Weather Condition
+* Displays average humidity for the top 10 weather conditions. Conditions like fog and rain show higher humidity, while clearer conditions show relatively lower levels.
+
+🔹 Slicers
+Interactive dropdown slicers for:
+
+Month
+* Weather Condition
+
+* These allow users to filter the data dynamically to explore specific trends.
+
+🔍 Key Insights:
+* Temperature: Steady increase from January to July, followed by a cooling trend.
+
+* Humidity: Fog, drizzle, and rainfall-related conditions have the highest humidity levels.
+
+* Wind Speed: Stable with slight variation across months.
+
+
+📈 Tools Used:
+- Microsoft Power BI (Version: January 2025)
+
+- Excel / CSV for data preprocessing
+
+🚀 Future Enhancements (Page 2 Preview):
+
+Page 2 (coming soon) will explore:
+
+- Rainfall patterns and extreme weather contributors
+
+- Condition-based rainfall volume
+
+- Correlation analysis between temperature, humidity, and rainfall
+
+
+
 
