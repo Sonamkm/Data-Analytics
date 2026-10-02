@@ -1,1 +1,114 @@
+# 🌍 Global CO₂ Emissions Analysis: Trends and Country-Level Insights (1975–2017)
+
+## 📌 Project Overview
+
+This project analyzes global CO₂ emissions from **1975 to 2017** to understand how emissions have changed over time and how emission patterns differ across countries.
+
+The analysis looks at global trends, total emissions, per-capita emissions, and emission trajectories of selected major countries.
+
+The goal was to turn historical CO₂ emissions data into clear, data-driven insights using **Python and Power BI**.
+
+## 🎯 Objectives
+
+* Analyze global CO₂ emission trends from 1975 to 2017
+* Compare countries based on total CO₂ emissions
+* Compare countries based on CO₂ emissions per capita
+* Examine how emission patterns have changed over time
+* Analyze emission trends for selected major countries
+* Present the findings through an interactive Power BI dashboard
+
+## 🛠️ Tools & Technologies
+
+* **Python**
+* **Pandas** – Data cleaning and analysis
+* **Jupyter Notebook** – Exploratory Data Analysis
+* **Power BI** – Dashboard and interactive visualization
+
+## 🔎 Project Workflow
+
+**Data → Data Quality Check → EDA → Visualization → Insights → Power BI Dashboard**
+
+### 1. Data Cleaning & Quality Check
+
+The dataset was reviewed for:
+
+* Missing values
+* Incorrect data types
+* Duplicate records
+* Invalid emission values
+
+No major data-quality issues were identified, so no rows were removed or modified.
+
+### 2. Exploratory Data Analysis
+
+The analysis focused on:
+
+* Global CO₂ emission trends
+* Global emissions per capita
+* Top emitting countries by total emissions
+* Top emitting countries by emissions per capita
+* Emission trends of selected major countries
+
+### 3. Power BI Dashboard
+
+The findings were presented through an interactive Power BI dashboard containing five main analyses:
+
+1. Global CO₂ emissions trend
+2. Global CO₂ emissions per capita trend
+3. Top CO₂-emitting countries by total emissions
+4. Top CO₂-emitting countries by emissions per capita
+5. CO₂ emission trends for selected major countries
+
+## 💡 Key Insights
+
+### 🌍 Global Trend
+
+Global CO₂ emissions showed a **steady and significant increase** between 1975 and 2017.
+
+### 👤 Per-Capita Trend
+
+Per-capita emissions followed a different pattern from total emissions, increasing initially and showing more stability in later years.
+
+### 🌎 Major Emitters
+
+The analysis identified **China, the United States, and India** among the leading countries in total CO₂ emissions.
+
+### 📊 Total vs. Per-Capita Emissions
+
+The countries with the highest total emissions are not necessarily the same countries with the highest emissions per person. The per-capita analysis showed higher rankings for several smaller or high-income countries.
+
+### 📈 Country-Level Trends
+
+The selected country comparison showed different emission trajectories:
+
+* **China:** Rapid acceleration, particularly in recent decades
+* **United States:** Earlier peak followed by relative stabilization and decline
+* **India:** Steady long-term growth
+
+These differences demonstrate why looking at both total and per-capita emissions provides a more complete picture.
+
+## 📊 Dashboard Preview
+
+*Add your Power BI dashboard screenshot here.*
+
+## 📚 Key Takeaway
+
+This project reinforced the importance of looking at data from multiple perspectives. Global totals provide one view, while per-capita and country-level trends reveal additional differences in emission patterns.
+
+The project also helped me practice the complete data analytics workflow — from data quality checks and exploratory analysis to visualization and communicating insights through a dashboard.
+
+## 📁 Repository Contents
+
+* `Global_CO2_Emissions_Analysis.ipynb` — Python analysis and EDA
+* `Dataset` — Project dataset
+* `Power BI Dashboard` — Dashboard file/screenshots
+* `README.md` — Project documentation
+
+## 📝 Detailed Analysis
+
+I have also written a detailed article about this project on my blog:
+
+**[Read the full analysis →] https://medium.com/@sonam.m17/tracking-the-rise-of-global-co%E2%82%82-emissions-through-data-analysis-a75cb67f832b**
+
+Data Analytics | Python | SQL | Excel | Power BI
 
